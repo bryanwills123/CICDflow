@@ -30,5 +30,9 @@ public class First {
 	void shambu() {
 		System.out.println("shambu");
 	}
+	@Test
+	void gimbu() {
+		System.out.println("gimbu");
+	}
 	
 }

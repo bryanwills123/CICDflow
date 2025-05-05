@@ -14,4 +14,9 @@ public class Secondtest {
 	void homepage() {
 		System.out.println("it is home page");
 	}
+	
+	@Test
+	void addIntake() {
+		System.out.println("it is an intake page");
+	}
 }

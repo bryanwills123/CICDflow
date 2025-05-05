@@ -11,4 +11,14 @@ public class First {
 	}
 	
 	
+	@Test
+	void tearDown() {
+		System.out.println("tearDown");
+	}
+	
+	@Test
+	void bumbulakdi() {
+		System.out.println("bumbulakdi");
+	}
+	
 }

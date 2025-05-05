@@ -25,5 +25,10 @@ public class First {
 	void chambu() {
 		System.out.println("chambu");
 	}
+
+	@Test
+	void shambu() {
+		System.out.println("shambu");
+	}
 	
 }
